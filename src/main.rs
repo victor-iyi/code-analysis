@@ -1,3 +1,7 @@
+use clap::Parser;
+use code_analysis::cli::Cli;
+
 fn main() {
-    println!("Hello, world!");
+  let args = Cli::parse();
+  println!("{args:?}");
 }
