@@ -1,5 +1,7 @@
 # code-analysis
 
+[![CI](https://github.com/victor-iyi/code-analysis/actions/workflows/ci.yml/badge.svg)](https://github.com/victor-iyi/code-analysis/actions/workflows/ci.yml)
+
 Reports comprehensive code analysis on your project
 
 ## Contribution
